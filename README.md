@@ -61,3 +61,6 @@ Political engagement: Alex is knowledgable on politics and can name their congre
 # Take a look at my skeletal outline for my Shorthand final presentation!
 There is certainly a lot to add and a lot to sketch out. I wanted to put in my thoughts and continue to add over the Thanksgiving Break. The rough sketches I did for my storyboards are not far from the true data, so when I actually create the visualistions during the upcoming weeks, I'm excited to play around with which type of graphs tell my story in the most engaging and easy to process way. Thank you in advance for your feedback!
 You can take a look at the Shorthand skeletal outline here: https://preview.shorthand.com/gi2Ddb4myV4YIlYL
+
+# Thanks for reading! If you also need to see last week's project proposal, here it is:
+https://dryave.github.io/Final-Project-Propsal/
