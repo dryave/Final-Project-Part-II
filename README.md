@@ -24,6 +24,9 @@ My user script was likely longer than most user scripts would be, as I wanted to
 9.	What would you like to see changed? Any feedback here is welcome!
 10.	Thank you for helping me with this project.
 
+![malaria 1](https://user-images.githubusercontent.com/56807370/69511669-20f3dc00-0f0f-11ea-9837-3ab79b465713.jpg)
+
+
 # Findings from interviews and changes to implement
 
 My interviewees were extremely helpful in their frank and candid feedback. Here are some pieces of feedback I received and how I made edits into my second storyboard.
