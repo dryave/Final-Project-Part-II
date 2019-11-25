@@ -41,8 +41,13 @@ My interviewees were extremely helpful in their frank and candid feedback. Here 
 It was clear after my interviewees offered such targeted feedback that I needed to do a better job identifying my target audience member. So in order to do that I created a persona. Here's what the prototypical persona for my target audience member might look like:
 
 Name: Alex
+
 Year: Second Year Heinz student 
+
 Interests: Arts, policy, healthcare
+
 Knowledge on malaria: Knows it's a mosquito-related disease that affects many people in "Africa." Doesn't have much more granular knowledge on how malaria works. 
+
 How to capture their attention: Exciting information presented in a new way. Has many competing priorities and likely won't give full attention to this presentation if it isn't extremely useful or novel. 
+
 Political engagement: Alex is knowledgable on politics and can name their congressperson and plans to vote in the upcoming election. If Alex is asked to engage with politics, either by calling a politician, voting for a certian candidate, or even donating a small amount of money to a certain person or cause, Alex is willing to be convinced. With that said, Alex is quite busy and would not give up time to go to a rally or engage in a long-term way.
