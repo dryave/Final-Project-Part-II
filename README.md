@@ -51,3 +51,7 @@ Knowledge on malaria: Knows it's a mosquito-related disease that affects many pe
 How to capture their attention: Exciting information presented in a new way. Has many competing priorities and likely won't give full attention to this presentation if it isn't extremely useful or novel. 
 
 Political engagement: Alex is knowledgable on politics and can name their congressperson and plans to vote in the upcoming election. If Alex is asked to engage with politics, either by calling a politician, voting for a certian candidate, or even donating a small amount of money to a certain person or cause, Alex is willing to be convinced. With that said, Alex is quite busy and would not give up time to go to a rally or engage in a long-term way.
+
+# Take a look at my skeletal outline for my Shorthand final presentation!
+There is certainly a lot to add and a lot to sketch out. I wanted to put in my thoughts and continue to add over the Thanksgiving Break. The rough sketches I did for my storyboards are not far from the true data, so when I actually create the visualistions during the upcoming weeks, I'm excited to play around with which type of graphs tell my story in the most engaging and easy to process way. Thank you in advance for your feedback!
+You can take a look at the Shorthand skeletal outline here: https://preview.shorthand.com/gi2Ddb4myV4YIlYL
