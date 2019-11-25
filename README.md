@@ -39,6 +39,9 @@ My interviewees were extremely helpful in their frank and candid feedback. Here 
 7.	Two people mentioned that my presentation would be stronger if it were more personal. To do this, I plan to introduce a story about someone in Togo who has experienced malaria. 
 8.	The interviewees mentioned that the takeaways seemed to logically follow the presentation based on how I presented the storyboard, but it may be harder to communicate all of that information in the 60-second presentation.
 
+![malaria 2](https://user-images.githubusercontent.com/56807370/69511699-41239b00-0f0f-11ea-961f-fe5067d2524a.jpg)
+
+
 # Personas
 
 It was clear after my interviewees offered such targeted feedback that I needed to do a better job identifying my target audience member. So in order to do that I created a persona. Here's what the prototypical persona for my target audience member might look like:
