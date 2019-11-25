@@ -1,13 +1,14 @@
 # Final-Project-Part-II
 Here is my final project part II! 
 
-User Research Protocol: Daniel Ryave Telling Stories with Data Final Project Part 2
+# User Research Protocol: Daniel Ryave Telling Stories with Data Final Project Part 2
 
 My goal for this presentation is to convince graduate students who have limited to no knowledge of malaria to be able to do the following things:
 1.	Understand the cause and treatment/prevention options for malaria
 2.	Determine which interventions are particularly effective and which interventions are particularly cost-effective
 3.	Be motivated to call their congressperson to encourage increased foreign aid spending or donate to a worthy NGO 
 
+# User Testing
 In order to understand if my presentation is achieving these goals, I sat down with three graduate students who did not know what the cause of malaria is. (In my experience, people who can’t identify the cause of malaria don’t generally know much about treatment or prevention methods.) My theory held true in this case; the three graduate students with whom I spoke had a lot to learn about malaria. 
 
 My user script was likely longer than most user scripts would be, as I wanted to educate them in the same way that my final presentation will. But I also wanted to give them a lot of room to dissect the information and story boards on their own and provide me with feedback. Here is what I said to my storyboard research subjects:
@@ -23,7 +24,7 @@ My user script was likely longer than most user scripts would be, as I wanted to
 9.	What would you like to see changed? Any feedback here is welcome!
 10.	Thank you for helping me with this project.
 
-Findings from interviews and changes to implement
+# Findings from interviews and changes to implement
 
 My interviewees were extremely helpful in their frank and candid feedback. Here are some pieces of feedback I received and how I made edits into my second storyboard.
 1.	The title “Malaria Today: How YOU can help” is not as strong as it could be, according to the people I interviewed. It sounded a little cliché and not very specific. I changed it to: “Malaria in sub-Saharan African: A crisis that can be solved.”
@@ -34,3 +35,14 @@ My interviewees were extremely helpful in their frank and candid feedback. Here 
 6.	One person mentioned that my graph in slide 5 is a little busy and may be better by plotting efficacy and cost instead of efficacy and year, since old interventions may not be useful. Honestly, I’m not sure if I like this change or not, and I am eager for feedback from other interviewees when I test my second storyboard.
 7.	Two people mentioned that my presentation would be stronger if it were more personal. To do this, I plan to introduce a story about someone in Togo who has experienced malaria. 
 8.	The interviewees mentioned that the takeaways seemed to logically follow the presentation based on how I presented the storyboard, but it may be harder to communicate all of that information in the 60-second presentation.
+
+# Personas
+
+It was clear after my interviewees offered such targeted feedback that I needed to do a better job identifying my target audience member. So in order to do that I created a persona. Here's what the prototypical persona for my target audience member might look like:
+
+Name: Alex
+Year: Second Year Heinz student 
+Interests: Arts, policy, healthcare
+Knowledge on malaria: Knows it's a mosquito-related disease that affects many people in "Africa." Doesn't have much more granular knowledge on how malaria works. 
+How to capture their attention: Exciting information presented in a new way. Has many competing priorities and likely won't give full attention to this presentation if it isn't extremely useful or novel. 
+Political engagement: Alex is knowledgable on politics and can name their congressperson and plans to vote in the upcoming election. If Alex is asked to engage with politics, either by calling a politician, voting for a certian candidate, or even donating a small amount of money to a certain person or cause, Alex is willing to be convinced. With that said, Alex is quite busy and would not give up time to go to a rally or engage in a long-term way.
